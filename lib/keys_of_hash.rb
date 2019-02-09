@@ -5,6 +5,8 @@ class Hash
     array = []
     self.each do |key,value|
       arguments.each do |arg|
+        if 
+        end
       end
     end
     return array
